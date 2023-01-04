@@ -1,3 +1,5 @@
+
+This is sample project made based on PedroTech's(@machadop1407) video on NextJS ( https://www.youtube.com/watch?v=tsmaQdgidKg&t=325s )
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
